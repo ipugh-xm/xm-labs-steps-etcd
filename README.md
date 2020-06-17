@@ -1,7 +1,6 @@
 # etcd Steps
 
-This step allows you to get the commit details from a given repo and user. Great for enriching notifications with relevant code commit information. 
-
+These steps are great for interacting with the key-value store in [etcd](https://etcd.io/).
 
 ---------
 
@@ -17,7 +16,7 @@ This step allows you to get the commit details from a given repo and user. Great
 * [etcd.png](/etcd.png) - etcd logo
 
 # How it works
-These steps can communicate with the key-value store in [etcd](https://https://etcd.io/).
+These steps can communicate with the key-value store in [etcd](https://etcd.io/).
 
 
 # Installation
@@ -25,7 +24,8 @@ These steps can communicate with the key-value store in [etcd](https://https://e
 ## etcd Setup
 None required.
 
-Install the [xMatters Agent](https://help.xmatters.com/ondemand/xmodwelcome/xmattersagent/install-xmatters-agent.htm) on a computer with access to your etcd store.
+Optionally, install the [xMatters Agent](https://help.xmatters.com/ondemand/xmodwelcome/xmattersagent/install-xmatters-agent.htm) on a computer with access to your etcd store for improved security.
+
 
 ## xMatters Setup
 1. Download the [etcdSteps.zip](etcdSteps.zip) file onto your local computer
